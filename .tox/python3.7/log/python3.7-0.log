@@ -1,9 +1,0 @@
-actionid: python3.7
-msg: getenv
-cmdargs: '/usr/bin/python3 -m virtualenv --python /usr/bin/python3 python3.7'
-
-Already using interpreter /usr/bin/python3
-Using base prefix '/usr'
-New python executable in /mnt/c/Users/desalama/Linux/Python/Homeworks/1_Calculator/.tox/python3.7/bin/python3
-Also creating executable in /mnt/c/Users/desalama/Linux/Python/Homeworks/1_Calculator/.tox/python3.7/bin/python
-Installing setuptools, pip, wheel...done.
