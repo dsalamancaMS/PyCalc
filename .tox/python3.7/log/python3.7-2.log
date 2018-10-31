@@ -1,0 +1,12 @@
+actionid: python3.7
+msg: installpkg
+cmdargs: '/mnt/c/Users/desalama/Linux/Python/Homeworks/1_Calculator/.tox/python3.7/bin/python -m pip install --exists-action w /mnt/c/Users/desalama/Linux/Python/Homeworks/1_Calculator/.tox/.tmp/package/1/Calculator-0.1.zip'
+
+Processing ./.tox/.tmp/package/1/Calculator-0.1.zip
+Building wheels for collected packages: Calculator
+  Running setup.py bdist_wheel for Calculator: started
+  Running setup.py bdist_wheel for Calculator: finished with status 'done'
+  Stored in directory: /home/dsala/.cache/pip/wheels/a6/01/46/183aeb738a57a1757c1603ad70dabc60d3f193433de1913feb
+Successfully built Calculator
+Installing collected packages: Calculator
+Successfully installed Calculator-0.1
